@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.614388,47.243917]
+      },
+      "properties": {
+        "owner": "Aldan",
+        "name":"Золотая Рыбка",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.622127,47.225536]
+      },
+      "properties": {
+        "owner": "Softswitch,Kitten",
+        "name":"Медведь",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.621978,47.225893]
+      },
+      "properties": {
+        "owner": "Softswitch,Kitten",
+        "name":"Творческая мастерская РОСХР",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.621866, 47.225629]
+      },
+      "properties": {
+        "owner": "Softswitch,Kitten",
+        "name":"Марио с Планшетом",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.626753,47.227965]
+      },
+      "properties": {
+        "owner": "Frinako",
+        "name":"Грустный Белый Лебедь",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.627001,47.228624]
+      },
+      "properties": {
+        "owner": "NOTGOOD",
+        "name":"Зеленый Слоник",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.632788, 47.220157]
+      },
+      "properties": {
+        "owner": "LeopoldRND(Gazolina)",
+        "name":"На Дне Морском",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.629688,47.200092]
+      },
+      "properties": {
+        "owner": "Hvostik",
+        "name":"Храм Великомученицы Екатерины",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.668225,47.207334]
+      },
+      "properties": {
+        "owner": "Doomsday",
+        "name":"Библиотека им. М. А. Шолохова",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.771015,47.251107]
+      },
+      "properties": {
+        "owner": "Zlodiak,Pepsa",
+        "name":"Sereda P. S. Hero of SU",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.700752, 47.289373]
+      },
+      "properties": {
+        "owner": "Gurov",
+        "name":"Граффити Sbrod",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      }
+   ]
+}
