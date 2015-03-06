@@ -154,6 +154,20 @@
         "marker-size": "medium",
         "marker-symbol": ""      
         }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.734914,47.225737]
+      },
+      "properties": {
+        "owner": "Igels",
+        "name":"Лепнина",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
       }
    ]
 }
