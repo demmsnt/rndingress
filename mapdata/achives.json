@@ -5,11 +5,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [39.655655,47.251395]
+        "coordinates": [39.663849,47.252708]
       },
       "properties": {
         "owner": "LeopoldRND",
-        "URL": "https://www.ingress.com/intel?ll=47.251395,39.655655&z=16&pll=47.253612,39.663811",
+        "URL": "https://www.ingress.com/intel?ll=47.252708,39.663849&z=16&pll=47.253612,39.663811",
         "name":"Граффити пейнтбол",
         "marker-color": "#04006a",
         "marker-size": "medium",
@@ -20,11 +20,11 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [39.664092,47.253492]
+        "coordinates": [39.664152,47.252575]
       },
       "properties": {
         "owner": "InkReD",
-        "URL": "https://www.ingress.com/intel?ll=47.251395,39.655655&z=16&pll=47.253492,39.664092",
+        "URL": "https://www.ingress.com/intel?ll=47.252575,39.664152&z=15&pll=47.253492,39.664092",
         "name":"Граффити пейнтбол",
         "marker-color": "#04006a",
         "marker-size": "medium",
