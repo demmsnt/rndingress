@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.655655,47.251395]
+      },
+      "properties": {
+        "owner": "LeopoldRND",
+        "URL": "https://www.ingress.com/intel?ll=47.251395,39.655655&z=16&pll=47.253612,39.663811",
+        "name":"Граффити пейнтбол",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      }]
+}
