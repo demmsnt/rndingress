@@ -168,6 +168,63 @@
         "marker-size": "medium",
         "marker-symbol": ""      
         }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.641853,47.225953]
+      },
+      "properties": {
+        "owner": "tlexus",
+        "name":"Греческий Атлет Олимпиец",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.622398,47.229983]
+      },
+      "properties": {
+        "owner": "MissHide",
+        "name":"Сердце С Крыльями",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.706259,47.286376]
+      },
+      "properties": {
+        "owner": "LukasArts",
+        "name":"Детская Площадка",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.618808,47.229805]
+      },
+      "properties": {
+        "owner": "AlexSchatz",
+        "name":"Играй С Дельфинами",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
       }
+      
    ]
 }
