@@ -215,11 +215,25 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [39.618808,47.229805]
+        "coordinates": [39.618808,47.229805] 
       },
       "properties": {
         "owner": "AlexSchatz",
         "name":"Играй С Дельфинами",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.711388,47.254284]
+      },
+      "properties": {
+        "owner": "Saboter",
+        "name":"Герасименко спорткомплекс",
         "marker-color": "#04006a",
         "marker-size": "medium",
         "marker-symbol": ""      
