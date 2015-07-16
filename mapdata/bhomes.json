@@ -215,6 +215,20 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [39.705676,47.285919]
+      },
+      "properties": {
+        "owner": "LukasArts",
+        "name":"Виноградная Лоза",
+        "marker-color": "#04006a",
+        "marker-size": "medium",
+        "marker-symbol": ""      
+        }
+      },
+  {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [39.618808,47.229805] 
       },
       "properties": {
